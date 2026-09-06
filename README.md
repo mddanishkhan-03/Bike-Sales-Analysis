@@ -48,3 +48,7 @@ An interactive Excel dashboard was created with:
 ## Project File
 
 Bike_Sales_Dashboard.xlsx
+
+## Dashboard Preview
+
+![Bike Sales Dashboard](Bike%20Sales%20Dashboard.png)
